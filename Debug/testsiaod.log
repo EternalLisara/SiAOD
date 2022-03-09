@@ -1,0 +1,31 @@
+﻿  testsiaod.cpp
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(299,11): error C2131: выражение не определяется константой
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(299,11): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(299,11): message : см. использование "size"
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(301,14): error C3863: тип массива "int [size]" является неназначаемым
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(308,22): error C3863: тип массива "int [size]" является неназначаемым
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(309,26): error C3863: тип массива "int [size]" является неназначаемым
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(377,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(412,14): error C2131: выражение не определяется константой
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(412,14): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(412,14): message : см. использование "n"
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(413,11): error C2131: выражение не определяется константой
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(413,11): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(413,11): message : см. использование "n"
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(414,12): error C2131: выражение не определяется константой
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(414,12): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(414,12): message : см. использование "n"
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(414,15): error C2131: выражение не определяется константой
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(414,15): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(414,15): message : см. использование "n"
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(417,21): error C3863: тип массива "char [n][n]" является неназначаемым
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(422,10): error C3863: тип массива "int [n]" является неназначаемым
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(423,10): error C3863: тип массива "double [n]" является неназначаемым
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(428,14): error C3863: тип массива "double [n]" является неназначаемым
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(429,14): error C3863: тип массива "int [n]" является неназначаемым
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(434,33): error C2668: floor: неоднозначный вызов перегруженной функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cmath(329,46): message : может быть "long double floor(long double) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cmath(102,40): message : или       "float floor(float) noexcept"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(505,47): message : или       "double floor(double)"
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(434,33): message : при попытке сопоставить список аргументов "(double [n])"
+C:\Users\Авокадо\source\repos\testsiaod\testsiaod.cpp(445,77): warning C4552: "<<": результат выражения не используется
